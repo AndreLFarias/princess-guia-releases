@@ -1,8 +1,8 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.1.0",
-    "notes":  "Compendio oficial traduzido: 343 personagens (formas, armas, fantasias, encontros), 1.362 itens com onde conseguir, bestiario, estados e os sistemas do jogo, com as imagens do site. A pagina de cada princesa ganhou a ficha do compendio.",
+    "versionCode":  3,
+    "versionName":  "1.2.0",
+    "notes":  "Agora em portugues e ingles: escolha o idioma na primeira abertura e troque quando quiser em Mais \u003e Idioma / Language. Now in Portuguese and English: pick your language on first launch and change it anytime in More \u003e Idioma / Language.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/princess-guia-releases/releases/download/v1.1.0/guia-pc-1.1.0.apk"
+                "geral":  "https://github.com/AndreLFarias/princess-guia-releases/releases/download/v1.2.0/guia-pc-1.2.0.apk"
             }
 }
