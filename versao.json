@@ -1,0 +1,8 @@
+{
+    "versionCode":  1,
+    "versionName":  "1.0.0",
+    "notes":  "Primeira versão do Guia P\u0026C: princesas, rotas, mapa clicável, guia completo, dinheiro e apostas, calendário, progresso e busca.",
+    "apk":  {
+                "geral":  "https://github.com/AndreLFarias/princess-guia-releases/releases/download/v1.0.0/guia-pc-1.0.0.apk"
+            }
+}
