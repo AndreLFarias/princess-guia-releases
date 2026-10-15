@@ -1,8 +1,8 @@
 {
-    "versionCode":  1,
-    "versionName":  "1.0.0",
-    "notes":  "Primeira versão do Guia P\u0026C: princesas, rotas, mapa clicável, guia completo, dinheiro e apostas, calendário, progresso e busca.",
+    "versionCode":  2,
+    "versionName":  "1.1.0",
+    "notes":  "Compendio oficial traduzido: 343 personagens (formas, armas, fantasias, encontros), 1.362 itens com onde conseguir, bestiario, estados e os sistemas do jogo, com as imagens do site. A pagina de cada princesa ganhou a ficha do compendio.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/princess-guia-releases/releases/download/v1.0.0/guia-pc-1.0.0.apk"
+                "geral":  "https://github.com/AndreLFarias/princess-guia-releases/releases/download/v1.1.0/guia-pc-1.1.0.apk"
             }
 }
